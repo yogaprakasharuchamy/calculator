@@ -1,0 +1,16 @@
+body{
+font-size:10px;
+font-color:red;
+height:100%;
+margin:50px;
+padding:20px;
+display:flex;
+justify-content:center;
+align-content:center;
+}
+div{
+margin:2px;
+padding:10px;
+height:20%;
+
+}
